@@ -1,4 +1,4 @@
-# Hacker News Topic Viewer
+# Mini News App
 
 Simple JavaScript project that fetches news from Hacker News API.
 
